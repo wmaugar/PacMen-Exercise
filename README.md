@@ -1,97 +1,79 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Workspace" />
+  <img src="./.github/app.gif" alt="PacMen Exercise" />
 
   &#xa0;
 
-  <!-- <a href="https://workspace.netlify.app">Demo</a> -->
+  <!-- <a href="https://pacmenexcercisenetlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Workspace</h1>
+<h1 align="center">Pacmen Factory Exercise</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/pacmen-exercise?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/pacmen-exercise?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/pacmen-exercise?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/wmaugar/pacmen-exercise?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/pacmen-exercise?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/pacmen-exercise?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/pacmen-exercise?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Workspace 🚀 Under construction...  🚧
+	🚧  Real Time Bus Tracker 🚀 first version...  🚧
 </h4> 
 
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="#dart-Description">Description</a> &#xa0; | &#xa0; 
+  <a href="#checkered_flag-How_to_run">How to run</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-Roadmap">Roadmap of the future improvements</a> &#xa0; | &#xa0;
+  <a href="#memo-License">License</a> &#xa0; | &#xa0;
+  <a href="#rocket-Technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="https://wmaugar.github.io/Landing-Page/" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: About ##
+## :dart: Description ##
 
-Describe your project
+This is a project inspired in Pacman game. It allows to create a pacmen crew, and then start to move with ramdom direction.<br>
 
-## :sparkles: Features ##
+This exercise use callback functions, array manipulation, and Document Object Model interface to create and move objets inside this web document. <br>
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+
+## :checkered_flag: How_to_Run ##
+
+:heavy_check_mark: First, clone this repository;\
+:heavy_check_mark: Second, open index.html file in a web browser
+:heavy_check_mark: Third, enjoy it;
+
+## :white_check_mark: Roadmap ##
+
+- Next weeks, will be implemented some walls
+- Soon, will be implemented some phantoms.
+
+## :memo: License ##
+
+This project is under license from MIT.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+[JavaScript](https://www.javascript.com/)
 
-## :white_check_mark: Requirements ##
+## :sparkles: Author ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/workspace
-
-# Access
-$ cd workspace
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://wmaugar.github.io/Landing-Page/" target="_blank">Willy Mauricio</a>
 
 &#xa0;
 
