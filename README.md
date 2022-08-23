@@ -38,8 +38,7 @@
   <a href="#white_check_mark-Roadmap">Roadmap of the future improvements</a> &#xa0; | &#xa0;
   <a href="#memo-License">License</a> &#xa0; | &#xa0;
   <a href="#rocket-Technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="https://wmaugar.github.io/Landing-Page/" target="_blank">Author</a>
-  <a href="https://wmaugar.github.io/PacMen-Exercise/" target="_blank">Start Demo</a>
+  <a href="https://wmaugar.github.io/Landing-Page/" target="_blank">Author</a>  
 </p>
 
 <br>
