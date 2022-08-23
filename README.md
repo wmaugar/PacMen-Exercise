@@ -53,7 +53,7 @@ This exercise use callback functions, array manipulation, and Document Object Mo
 ## :checkered_flag: How_to_Run ##
 
 :heavy_check_mark: First, clone this repository;\
-:heavy_check_mark: Second, open index.html file in a web browser
+:heavy_check_mark: Second, open index.html file in a web browser;\
 :heavy_check_mark: Third, enjoy it;
 
 ## :white_check_mark: Roadmap ##
@@ -69,7 +69,7 @@ This project is under license from MIT.
 
 The following tools were used in this project:
 
-[JavaScript](https://www.javascript.com/)
+- [JavaScript](https://www.javascript.com/)
 
 ## :sparkles: Author ##
 
